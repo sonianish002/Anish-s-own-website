@@ -94,6 +94,11 @@ a:hover{
   margin-right: 30px;
   width: 35%;
 }
+.photography {
+  float: left;
+  margin-right: 30px;
+  width: 35%;
+}
 
 .skill {
   width: 35%;
